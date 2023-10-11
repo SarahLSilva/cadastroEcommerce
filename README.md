@@ -1,1 +1,1 @@
-# cadastroEcommerce
+# Formulário de cadastro do Ecomerce
